@@ -2,7 +2,7 @@ Are you looking to pick up any work? If you have time, I could use a Netlify-fri
 Only the widget in the center, and no back-end.
 
 I'm thinking we can just get the building info from GET params and parse them using client-side JS?
-I can handle the form submission later.
+The form should be able to post all the data in a request body to a Lambda/Cloud-Function, but I can handle the exact FaaS later.
 
 I can throw you $150 for the page.
 
