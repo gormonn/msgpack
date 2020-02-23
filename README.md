@@ -1,11 +1,9 @@
-MessagePack
-===========
+Are you looking to pick up any work? If you have time, I could use a Netlify-friendly(Gatsby/React) version of only this page: https://property.spatialest.com/nc/durham/#/property/192043/building/6457/changerequest
+Only the widget in the center, and no back-end.
 
-MessagePack is an efficient binary serialization format. It's like JSON. but fast and small.
+I'm thinking we can just get the building info from GET params and parse them using client-side JS?
+I can handle the form submission later.
 
-This repository manages specification of MessagePack format. See [Spec](spec.md) for the specification.
+I can throw you $150 for the page.
 
-Implementation projects have each own repository. See [msgpack.org](http://msgpack.org/) website to find implementations and their documents.
-
-If you'd like to show your msgpack implementation to the [msgpack.org](http://msgpack.org/) website, please follow the [website document](https://github.com/msgpack/website).
-
+Interested? If yes, shoot me an email. If you want to do it in UpWork, let me know.
