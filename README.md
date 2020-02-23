@@ -6,4 +6,4 @@ The form should be able to post all the data in a request body to a Lambda/Cloud
 
 I can throw you $150 for the page.
 
-Interested? If yes, shoot me an email. If you want to do it in UpWork, let me know.
+Interested? If yes, shoot me an email (derekbaker783@gmail.com). If you want to do it in UpWork, let me know.
